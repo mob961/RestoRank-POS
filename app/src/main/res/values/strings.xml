@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestoRank Bridge</string>
+    <string name="printer_settings">Printer Settings</string>
+    <string name="bluetooth_printer">Bluetooth Printer</string>
+    <string name="wifi_printer">WiFi Printer</string>
+    <string name="printer_ip">Printer IP Address</string>
+    <string name="printer_port">Port (default: 9100)</string>
+    <string name="select_printer">Select Bluetooth Printer</string>
+    <string name="test_print">Test Print</string>
+    <string name="save_settings">Save Settings</string>
+    <string name="auto_print">Auto-print new orders</string>
+    <string name="connection_type">Connection Type</string>
+</resources>
